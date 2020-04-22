@@ -1,0 +1,14 @@
+{
+    "name": "Studiob.Blazetween.Editor.Tests",
+    "references": [
+        "Studiob.Blazetween.Editor",
+        "Studiob.Blazetween"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

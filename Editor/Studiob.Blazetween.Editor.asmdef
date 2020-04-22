@@ -1,0 +1,10 @@
+{
+    "name": "Studiob.Blazetween.Editor",
+    "references": [
+      "Studiob.Blazetween"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
